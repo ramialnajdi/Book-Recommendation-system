@@ -5,18 +5,12 @@ This project is based on data obtained from the website [Books to Scrape](https:
 
 ## Installation
 1. Clone the repository:
-   
-sh
    git clone https://github.com/ramialnajdi/Book-Recommendation-system.git
    
 2. Install the required packages:
-   
-sh
    pip install -r requirements.txt
    
 3. Run the Streamlit app:
-   
-sh
    streamlit run app.py
    
 
